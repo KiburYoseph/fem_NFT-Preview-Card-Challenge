@@ -38,6 +38,7 @@ body {
     border-radius: 12px;
     opacity: 0;
     transition: 200ms;
+    z-index: 1;
 }
 
 .view {
@@ -46,6 +47,7 @@ body {
     left: 42%;
     opacity: 0;
     transition: 200ms;
+    z-index: 5;
 }
 
 .nft {
